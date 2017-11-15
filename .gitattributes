@@ -1,3 +1,4 @@
 *.pptx linguist-documentation
 *.pdf linguist-documentation
 *.ppsx linguist-documentation
+*.html linguist-generated
